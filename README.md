@@ -1,4 +1,4 @@
-# Hi, I'm Olga 👋
+# 👋 Hi, I'm Olga 
 
 **Experience Architect @ Slack** | AI Adoption Leader | Transforming the way people work
 
@@ -6,7 +6,7 @@
 
 ## What I Do
 
-I help organizations unlock the full potential of Slack — designing experiences that make teams faster, smarter, and more connected. From deploying Slack AI to driving Agentforce integrations, I sit at the intersection of human experience and AI-powered work.
+I help organizations unlock the full potential of Slack — designing experiences that make teams faster, smarter, and more connected. From deploying Slack AI to driving Agentforce integrations, I sit at the intersection of human experience and AI-powered work. 🚀
 
 ---
 
@@ -14,7 +14,7 @@ I help organizations unlock the full potential of Slack — designing experience
 
 - **Cursor** — AI-native coding, every day
 - **Claude Code** — Agentic development & automation
-- **Slack AI** — Smarter search, recaps, and workflows
+- **Slackbot** — Smarter search, recaps, and workflows
 - **Agentforce** — Building the next generation of AI agents
 
 ---
@@ -22,7 +22,7 @@ I help organizations unlock the full potential of Slack — designing experience
 ## What I'm Building
 
 - 🏢 **Work transformation** — Helping teams rethink how they collaborate using Slack
-- 🍎 **Snack & health side projects** — Fun explorations at the edge of wellness and tech
+- 🍎 **Snack & health side projects** — Fun explorations to pushh my wellness with tech
 
 ---
 
@@ -32,4 +32,4 @@ I help organizations unlock the full potential of Slack — designing experience
 
 ---
 
-*"The best tools don't just save time — they change how you think."*
+*"Engineering better ways for humans and technology to collaborate."*
